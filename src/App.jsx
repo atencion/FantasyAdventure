@@ -120,7 +120,7 @@ function Scene() {
         theatreKey='grupete1'
             >
         <Text color="white" anchorX="center" anchorY="middle" scale={3}>
-          hola Lucio y Cami
+          Cami Lucio Bruno León 
         </Text>
 
         </e.group>
