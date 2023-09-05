@@ -15,7 +15,7 @@ import ACube from './modelComponents/ACube'
 
 import flyThroughState from './fly.json'
 
-// AHORA EN GIT TODO
+// AHORA EN GIT TODO OK
 // aca terminan los imports
 
 function App() {
